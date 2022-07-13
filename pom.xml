@@ -24,11 +24,11 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/srikanthlahanday/github-example-package.git</connection>
-        <developerConnection>scm:git:https://github.com/srikanthlahanday/github-example-package.git
+        <connection>scm:git:git://github.com/srikanthlahanday/github-publish-demo.git</connection>
+        <developerConnection>scm:git:https://github.com/srikanthlahanday/github-publish-demo.git
         </developerConnection>
-        <url>https://github.com/ManjunathPrabhakar/github-example-package</url>
-        <tag>github-example-package</tag>
+        <url>https://github.com/ManjunathPrabhakar/github-publish-demo</url>
+        <tag>github-publish-demo</tag>
     </scm>
 
     <build>
