@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>github-example-package</artifactId>
+    <artifactId>github-publish-demo</artifactId>
     <version>1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -11,7 +11,7 @@
         <repository>
             <id>github</id>
             <name>GitHub srikanthlahanday Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/srikanthlahanday/github-example-package</url>
+            <url>https://maven.pkg.github.com/srikanthlahanday/github-publish-demo</url>
         </repository>
     </distributionManagement>
     <developers>
@@ -19,7 +19,7 @@
             <name>srikanthlahanday</name>
             <email>srikanth.lahanday@gmail.com</email>
             <organization>com.github.srikanthlahanday</organization>
-            <organizationUrl>https://github.com/srikanthlahanday/github-example-package</organizationUrl>
+            <organizationUrl>https://github.com/srikanthlahanday/github-publish-demo</organizationUrl>
         </developer>
     </developers>
 
